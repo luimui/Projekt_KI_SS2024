@@ -1,5 +1,26 @@
 # Battlesnake Python Starter Project
 
+
+
+Battlesnake :)
+
+Ludwig Krause 209200612
+
+Willem Jack Schlüter
+
+Lukas Lyvert Stahl
+
+Antonius Ueberschär
+
+Sadegh Hajimirzamohammadi
+
+
+
+
+
+
+
+
 An official Battlesnake template written in Python. Get started at [play.battlesnake.com](https://play.battlesnake.com).
 
 ![Battlesnake Logo](https://media.battlesnake.com/social/StarterSnakeGitHubRepos_Python.png)
